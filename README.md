@@ -46,7 +46,7 @@ A Jupyter Notebook project demonstrating how to scrape a website, process its co
 
 Open the notebook:
 ```bash
-jupyter notebook openAI_scrape_website.ipynb
+jupyter notebook RAG_scrap_openAI.ipynb
 ```
 
 ### Core Steps
